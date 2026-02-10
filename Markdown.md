@@ -26,4 +26,4 @@ B -->|No| D[Try Again]
 
 [HOME](#michael-jordan-is-the-goat)
 
-[Why is he THE GOAT](##why-is-he-the-goat?)
+[Why is he THE GOAT](##why-is-he-the-goat)
