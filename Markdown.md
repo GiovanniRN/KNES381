@@ -1,3 +1,7 @@
+[HOME](#michael-jordan-is-the-goat)
+
+[Why is he THE GOAT](##why-is-he-the-goat)
+
 <h1 align="center">Michael Jordan is the GOAT</h1>
 <main>
 <p1>I'm gonna put a picture of him next to this.</p1>
@@ -8,4 +12,5 @@
 </main>
 
 <p2>Today is February 10<sup>th</sup></p2>
-<
+<h2 align="center">Why is he THE GOAT?</h2> 
+
