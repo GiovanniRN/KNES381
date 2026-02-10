@@ -1,3 +1,4 @@
+<!-- # Michael Jordan is the GOAT -->
 <h1 align="center">Michael Jordan is the GOAT</h1>
 <main>
 <p1>I'm gonna put a picture of him next to this.</p1>
@@ -8,6 +9,7 @@
 </main>
 
 <p2>Today is February 10<sup>th</sup></p2>
+<!-- ## Why is he the goat -->
 <h2 align="center">Why is he THE GOAT?</h2> 
 <p3>Michael Jordan is widely considered the GOAT because no player ever matched his combination of winning, dominance, and mentality at the highest level: he went 6–0 in the NBA Finals with six Finals MVPs, led the league in scoring ten times, won five regular-season MVPs, and played elite defense, earning Defensive Player of the Year and nine All-Defensive First Team selections. At his peak, Jordan was clearly the best offensive and defensive guard in the league, consistently delivering his best performances in the biggest moments, while his relentless competitiveness elevated teammates and intimidated opponents. Beyond the numbers, he set the standard for what greatness looks like in basketball, combining unmatched peak performance with a killer instinct and cultural impact that reshaped the NBA worldwide.
 Jordan’s greatness is also defined by the era he dominated, facing physical defenses and hand-checking rules that made scoring far more difficult than in the modern game. Despite these conditions, he routinely averaged over 30 points per game and still maintained efficiency, proving that his success was not a product of a softer league but of extraordinary skill, athleticism, and adaptability. Defenses were designed entirely around stopping him, yet he continued to impose his will night after night.
