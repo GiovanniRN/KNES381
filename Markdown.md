@@ -14,12 +14,12 @@ Jordan’s greatness is also defined by the era he dominated, facing physical de
 Another key aspect of Jordan’s legacy is his evolution as a player. Early in his career, critics claimed he could not win championships because he scored too much, but he responded by refining his game—trusting teammates, improving his playmaking, and mastering the triangle offense. This growth culminated in two three-peats, showing that Jordan was not just a scorer, but a complete leader capable of adjusting his style to achieve ultimate success.
 Jordan’s competitiveness was unmatched and became a defining feature of his greatness. He approached every game, practice, and challenge with the same intensity, using slights—real or imagined—as fuel. This mindset pushed him beyond physical limitations and created a standard of excellence that transformed the Chicago Bulls into a dynasty and forced everyone around him to elevate their level of play.
 Finally, Jordan’s impact extends far beyond basketball statistics and championships. He became a global icon who transcended sports, inspiring generations of athletes and redefining what it meant to be a superstar. His influence on basketball culture, athletic branding, and the global popularity of the NBA ensures that his legacy is not only measured in trophies and records, but in the lasting imprint he left on the game itself.</p3>
-'''mermaid
+```mermaid
 flowchart TD
 A[Start] --> B{Is Jordan the Goat}
 B --> |Yes|C{GOAT}
 B --> |No|D{Try Again}
-'''
+```
 
 [HOME](#michael-jordan-is-the-goat)
 
