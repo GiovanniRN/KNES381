@@ -24,7 +24,11 @@ A[Start] --> B{Is Jordan the GOAT?}
 B -->|Yes| C[GOAT]
 B -->|No| D[Try Again]
 ```
-### Table of Contents
+### Metrics
+
+<p>His V&#775;o2 max was probably near 60ml/kg/min but he never got it properly tested.</p>
+
+#### Table of Contents
 [HOME](#why-is-he-the-goat)
 
 [How Do You Know?](##how-do-you-know)
