@@ -29,6 +29,6 @@ B -->|No| D[Try Again]
 His V&#775;o2 max was probably near 60ml/kg/min but he never got it properly tested.
 
 #### Table of Contents
-[HOME](#why-is-he-the-goat)
+[HOME](#why-he-is-the-goat)
 
 [How Do You Know?](##how-do-you-know)
